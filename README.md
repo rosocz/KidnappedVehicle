@@ -88,6 +88,14 @@ Your job is to build out the methods in `particle_filter.cpp` until the simulato
 Success! Your particle filter passed!
 ```
 
+Comparison of result for 50 particles and 200 particles. Error rate change is quite small.
+
+
+![alt text](./images/50_particles.png "50 particles set")
+![alt text](./images/200_particles.png "200 particles set")
+
+With more particles the script was running out of the time. 
+
 # Implementing the Particle Filter
 The directory structure of this repository is as follows:
 
